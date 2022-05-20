@@ -42,13 +42,20 @@
     ],
     "uniqCompNum": 10,
     "versionPublish": "5.6.0",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2022-05-20-at-5.43.14-pm-128x128.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Macular Buckle",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
