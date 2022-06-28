@@ -746,3 +746,36 @@ a {
 .cid-t9DJHROltd .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-ta5QJbb8qs {
+  padding-top: 0rem;
+  padding-bottom: 2rem;
+  background-color: #353535;
+}
+.cid-ta5QJbb8qs .card-wrapper {
+  background: #ffffff;
+  border-radius: 4px;
+}
+@media (max-width: 767px) {
+  .cid-ta5QJbb8qs .card-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-ta5QJbb8qs .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-ta5QJbb8qs .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-ta5QJbb8qs .mbr-text,
+.cid-ta5QJbb8qs .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-ta5QJbb8qs .card-title,
+.cid-ta5QJbb8qs .card-box {
+  text-align: left;
+  color: #000000;
+}
